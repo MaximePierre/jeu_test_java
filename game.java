@@ -43,7 +43,7 @@ public class game
                   // 3. do the actual rotation
                   at.rotate(Math.PI/4);
 
-                    // do 3d isometrique
+               // do 3d isometrique
                   at.shear(-0.5, -0.5);
     
                   // 2. just a scale because this image is big
